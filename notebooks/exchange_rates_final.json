@@ -1,0 +1,35 @@
+[
+    {
+        "success": true,
+        "timestamp": 1711065599,
+        "historical": true,
+        "base": "EUR",
+        "date": "2024-03-21",
+        "rates": {
+            "AUD": 1.652757,
+            "NZD": 1.796599
+        }
+    },
+    {
+        "success": true,
+        "timestamp": 1711151999,
+        "historical": true,
+        "base": "EUR",
+        "date": "2024-03-22",
+        "rates": {
+            "AUD": 1.667243,
+            "NZD": 1.81181
+        }
+    },
+    {
+        "success": true,
+        "timestamp": 1711237624,
+        "historical": true,
+        "base": "EUR",
+        "date": "2024-03-23",
+        "rates": {
+            "AUD": 1.667243,
+            "NZD": 1.81181
+        }
+    }
+]
